@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import "./App.css";
 import axios from "axios";
-let monzoAuth = require('./config');
+import monzoAuth from './config';
 
 class App extends Component {
 
